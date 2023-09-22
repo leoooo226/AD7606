@@ -1,0 +1,19 @@
+ C:\Users\liuao\Desktop\gas sensor project\bmp\0000.BMP(0)
+
+000000;
+000000;
+000000;
+001800;
+002400;
+004200;
+004200;
+004200;
+004200;
+004200;
+004200;
+004200;
+002400;
+001800;
+000000;
+000000;C:\Users\liuao\Desktop\gas sensor project\bmp\0000.BMP0
+

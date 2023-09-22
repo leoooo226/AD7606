@@ -1,0 +1,19 @@
+ C:\Users\liuao\Desktop\gas sensor project\bmp\10000.BMP(0)
+
+000000;
+000000;
+000000;
+081818;
+382424;
+084242;
+084242;
+084242;
+084242;
+084242;
+084242;
+084242;
+082424;
+3E1818;
+000000;
+000000;C:\Users\liuao\Desktop\gas sensor project\bmp\10000.BMP0
+

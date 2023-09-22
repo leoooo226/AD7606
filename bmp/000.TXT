@@ -1,0 +1,27 @@
+ C:\Users\liuao\Desktop\gas sensor project\bmp\0.BMP(0)
+
+0000;
+0000;
+0000;
+0000;
+07E0;
+0FF0;
+1C38;
+3C3C;
+781C;
+781E;
+781E;
+781E;
+781E;
+781E;
+781E;
+781E;
+781E;
+383C;
+3C38;
+1E78;
+07E0;
+0000;
+0000;
+0000;C:\Users\liuao\Desktop\gas sensor project\bmp\0.BMP0
+
